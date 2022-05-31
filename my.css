@@ -1,16 +1,10 @@
 /* Split the screen in half */
 
-html {
-  border: 1px solid red;
-  padding: 50%;
-
- 
-}
-
 body {
-  background-color: Gold;
-  
-
+background-color: Gold;
+margin: 0;
+padding: 0;
+border: 2px solid #000000;
 }
 
 img {
