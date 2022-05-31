@@ -1,6 +1,9 @@
 /* Split the screen in half */
 body {
   background-color: Gold;
+  border-color: blue;  
+  border-width: .25em;  
+  border-style: double; 
 }
 
 img {
