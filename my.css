@@ -1,4 +1,9 @@
 /* Split the screen in half */
+body {
+  background-color: lightblue;
+}
+
+
 .split {
   height: 100%;
   width: 50%;
