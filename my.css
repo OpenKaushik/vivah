@@ -3,6 +3,11 @@ body {
   background-color: Gold;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .split {
   height: 100%;
