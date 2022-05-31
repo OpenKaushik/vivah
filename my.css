@@ -5,6 +5,8 @@ background-color: Gold;
 margin: 5%;
 padding: 0;
 border: 2px solid red;
+  font-size: 100%;    
+text-align: center;
 }
 
 img {
