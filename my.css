@@ -1,13 +1,18 @@
 /* Split the screen in half */
+#main {
+  border: 1px solid red;
+}
+
 html {
-  border-color: red;  
-  border-width: .25em;  
-  border-style: double; 
+  border: 1px solid red;
+ 
 }
 
 body {
   background-color: Gold;
  
+   border: 1px solid red;
+
 }
 
 img {
