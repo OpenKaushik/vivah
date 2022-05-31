@@ -1,4 +1,10 @@
 /* Split the screen in half */
+html {
+  border-color: red;  
+  border-width: .25em;  
+  border-style: double; 
+}
+
 body {
   background-color: Gold;
   border-color: blue;  
